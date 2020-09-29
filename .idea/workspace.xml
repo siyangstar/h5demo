@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9907941b-5c1a-46c4-8c93-7f6cf5150259" name="Default Changelist" comment="" />
+    <list default="true" id="9907941b-5c1a-46c4-8c93-7f6cf5150259" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/data_storage_2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/desktop_analytics_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/files_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/monitor_coding_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/monitor_settings_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/server_2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/server_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/server_safe_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/undraw.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/h5demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/h5demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,16 +31,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1i4ojTXujsTABhHXHvS7pS85eKB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
@@ -55,12 +77,25 @@
       <workItem from="1601253540398" duration="4484000" />
       <workItem from="1601260842407" duration="15000" />
       <workItem from="1601260868261" duration="21000" />
-      <workItem from="1601260898731" duration="2999000" />
+      <workItem from="1601260898731" duration="7882000" />
+      <workItem from="1601279703795" duration="5172000" />
+      <workItem from="1601340158478" duration="7646000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="306" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601262931675">
@@ -71,9 +106,21 @@
       <screen x="0" y="23" width="1920" height="1120" />
     </state>
     <state x="499" y="328" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1680.23.1680.922/0.23.1920.1120@0.23.1920.1120" timestamp="1601196270715" />
+    <state x="722" y="496" key="Github.ShareDialog" timestamp="1601272332954">
+      <screen x="0" y="23" width="1920" height="1120" />
+    </state>
+    <state x="722" y="496" key="Github.ShareDialog/-1680.23.1680.922/0.23.1920.1120@0.23.1920.1120" timestamp="1601272332954" />
+    <state x="641" y="304" key="Github.UntrackedFilesDialog" timestamp="1601272425075">
+      <screen x="0" y="23" width="1920" height="1120" />
+    </state>
+    <state x="641" y="304" key="Github.UntrackedFilesDialog/-1680.23.1680.922/0.23.1920.1120@0.23.1920.1120" timestamp="1601272425075" />
     <state x="270" y="213" key="SettingsEditor" timestamp="1601260943849">
       <screen x="0" y="23" width="1920" height="1120" />
     </state>
     <state x="270" y="213" key="SettingsEditor/-1680.23.1680.922/0.23.1920.1120@0.23.1920.1120" timestamp="1601260943849" />
+    <state x="655" y="513" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601273356805">
+      <screen x="0" y="23" width="1920" height="1120" />
+    </state>
+    <state x="655" y="513" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.23.1680.922/0.23.1920.1120@0.23.1920.1120" timestamp="1601273356805" />
   </component>
 </project>

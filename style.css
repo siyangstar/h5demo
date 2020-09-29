@@ -1,5 +1,6 @@
 body {
     margin: auto 0;
+    font-family: Arial, serif;
 }
 
 .zone {
@@ -20,6 +21,12 @@ body {
 }
 
 /*NAV*/
+.sticky {
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
 .main-nav {
     display: flex;
     flex-direction: row;
@@ -63,6 +70,11 @@ a {
     align-items: center;
     justify-content: center;
     height: 50vh;
+}
+
+.cover {
+    /*margin-top: 2rem;*/
+    width: 30rem;
 }
 
 /*PROJECT GRID*/

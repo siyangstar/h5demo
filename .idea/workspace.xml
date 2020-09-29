@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9907941b-5c1a-46c4-8c93-7f6cf5150259" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/data_storage_2_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/desktop_analytics_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/files_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/monitor_coding_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/monitor_settings_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/server_2_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/server_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/server_safe_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/undraw.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/h5demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/h5demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+    <list default="true" id="9907941b-5c1a-46c4-8c93-7f6cf5150259" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -51,6 +57,9 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -79,8 +88,16 @@
       <workItem from="1601260868261" duration="21000" />
       <workItem from="1601260898731" duration="7882000" />
       <workItem from="1601279703795" duration="5172000" />
-      <workItem from="1601340158478" duration="7646000" />
+      <workItem from="1601340158478" duration="9812000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1601367617004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601367617005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +113,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="306" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601262931675">
@@ -118,6 +139,10 @@
       <screen x="0" y="23" width="1920" height="1120" />
     </state>
     <state x="270" y="213" key="SettingsEditor/-1680.23.1680.922/0.23.1920.1120@0.23.1920.1120" timestamp="1601260943849" />
+    <state x="605" y="266" key="Vcs.Push.Dialog.v2" timestamp="1601367620889">
+      <screen x="0" y="23" width="1920" height="1120" />
+    </state>
+    <state x="605" y="266" key="Vcs.Push.Dialog.v2/-1680.23.1680.922/0.23.1920.1120@0.23.1920.1120" timestamp="1601367620889" />
     <state x="655" y="513" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601273356805">
       <screen x="0" y="23" width="1920" height="1120" />
     </state>
